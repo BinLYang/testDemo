@@ -7,6 +7,7 @@ public class test123 {
 
 		System.out.println("test the method");
 		System.out.println("hhhahha !!!");
+		System.out.println("I don't know how to di it!");
 	}
 
 }
